@@ -1,6 +1,5 @@
 # Episode 10: n8n best practices
 
-## [📚 Join our Skool community for support, premium content and more!](https://www.skool.com/ai-agents-az/about?gw10)
 
 ### Be part of a growing community and help us create more content like this
 
