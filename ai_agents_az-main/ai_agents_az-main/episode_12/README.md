@@ -2,7 +2,6 @@
 
 In this video, we show you how to use Postiz, a free and open-source social media scheduling tool, with n8n. Postiz has a public API and an MCP server available for n8n integrations. With self-hosted installation, it is completely free.
 
-## [📚 Join our Skool community for support, premium content and more!](https://www.skool.com/ai-agents-az/about?gw11)
 
 ### Be part of a growing community and help us create more content like this
 
@@ -12,7 +11,6 @@ In this video, we show you how to use Postiz, a free and open-source social medi
 
 ## Additional resources
 
-- [Join n8n](https://n8n.partnerlinks.io/fenoo5ekqs1g)
 
 ## Watch the video
 
